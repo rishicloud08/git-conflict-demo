@@ -1,1 +1,5 @@
+HEAD
 This is the FEATURE B version of the file. 
+This is the main version of the file.
+Change made in feature A branch. 
+feature-A
